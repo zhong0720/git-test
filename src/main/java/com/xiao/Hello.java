@@ -13,6 +13,13 @@ public class Hello {
         System.out.println("Hello Git4222");
         System.out.println("Hello Git4222");
         System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
+        System.out.println("Hello Git4222");
     }
 
 }
